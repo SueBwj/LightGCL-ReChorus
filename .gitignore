@@ -1,0 +1,7 @@
+.vscode
+/learning
+/docs
+/log
+note.md
+__pycache__
+.DS_Store
