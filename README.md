@@ -1,4 +1,5 @@
-### SYSU 人工智能学院 机器学习大作业
+# LightGCL-ReChorus
+### SYSU 人工智能学院 机器学习实验大作业
 
 #### 项目介绍
 - 以推荐系统为背景，采用[ReChorus2.0框架](https://github.com/THUwangcy/ReChorus)，复现[LightGCL模型](https://github.com/HKUDS/LightGCL)并改进然后进行一系列对比实验
